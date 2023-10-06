@@ -4,11 +4,9 @@ title: Hello
 ---
 
 
-## An easy to use, minimal, text focused Jekyll theme
+## About me
 
-[Bear Blog](https://bearblog.dev/) is *"a blogging platform where words matter most"*. 
-
-This is a port of it's theme to Jekyll, with some tweaks. So you can use GitHub Pages to host your blog while getting the same awesome Bear Blog feels.
+I am a current PhD student in ecology with research interests covering soil-vegetation-climate interactions, hydroclimatic influences on carbon and nutrient cycling, and soil microbial community composition and the factors that influence it. My research approach is based on process, conceptual, and stochastic models of water, carbon, and nutrient fluxes, and I test these models using local and global datasets.
 
 **Stop worrying about the style, focus on your writing.**
 
