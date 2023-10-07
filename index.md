@@ -4,8 +4,7 @@ layout: page
 
 ## Jianwei Li
 
-His scientific activity concerns research topics in the field of soil ecology as well as biogeochemistry cycle, especially in the field of soil microbiology.
-My academic journey has been driven by a profound passion for environmental science and ecology. I completed my undergraduate studies in Environmental Science, followed by my decision to pursue a Master's degree in Ecology. Subsequently, I embarked on a continuous academic journey, seamlessly transitioning into a Ph.D. program, all within the realm of environmental ecology. Throughout my doctoral studies, I have remained dedicated to exploring the intricate relationship between **soil organic matter** and **soil microbial communities**. Here is [[my CV](https://lijianweicode.github.io/file/CV_Jianwei Li.pdf)].
+I am a researcher with a background in environmental science and ecology. I hold a Master's degree in Ecology and currently pursue a Ph.D. in the same field. My research primarily focuses on soil ecology and the biogeochemical cycles, with a specific emphasis on soil microbiology. My academic journey has been driven by a genuine passion for understanding and preserving our environment. Through my work, I aim to contribute to a better understanding of the complex relationships within ecosystems, particularly the role of soil microbes in maintaining environmental health. Here is [[my CV](https://lijianweicode.github.io/file/CV_Jianwei.pdf)].
 
 <br>
 
@@ -20,10 +19,22 @@ My academic journey has been driven by a profound passion for environmental scie
 
 ## Research Interests
 
-- Soil organic matter
-- Soil microbial communities
-- Applied Machine Learning
+- Changes in soil organic matter quality in relation to soil microbial communities.
+- Effects of climate change on soil organic matter decomposition and microbial communities.
 
-During my pursuit of a Ph.D. degree, I employed high-throughput sequencing technology, fluorescence spectroscopy, and infrared spectroscopy to investigate the impact of varying qualities of organic matter on soil microbial diversity and the influence of soil microbial survival strategies on organic matter decomposition under wetland ecosystem succession conditions. Furthermore, I have had the privilege of disseminating my findings through several scholarly publications. Most recently, my research interests have revolved around the complexities and diversities of soil organic matter in forested wetlands and their role in driving the community structure of soil microorganisms under the influence of climate change. I am also conducting a global-scale meta-analysis to examine how anthropogenic disturbances impact soil microbial diversity in wetland ecosystems.
+## Recent research questions
+
+- The effect of organic matter diversity and complexity of forest swamp soils on soil microbial community structure.
+- The effect of anthropogenic disturbances on soil microbial diversity in wetlands, a global meta-analysis.
+
+## Relevant research skills
+
+- Fluorescence spectroscopy analysis (PARAFAC)
+- Spectroscopic data analysis
+- Soil physical chemistry experiment
+- Microbial high-throughput sequencing data processing
+- Determination of soil respiration (CO2 emissions)
+- Bioinformatics: Qiime2, Genomics Network
+- Computing: R, Python, MATLAB
 
 <br>
