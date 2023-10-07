@@ -45,21 +45,30 @@ defaults:
       layout: tagged
 
 # baseurl: ""
-permalink: /blog/:slug
-timezone: Asia/Shanghai
-future: false
+# permalink: /blog/:slug
+timezone: China/Beijing
+future: true
 
-exclude:
-- README.md
-- LICENSE.md
 
-exclude: [vendor]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
 
-Blog: /blog
-
-# Add general links to site pages here
 links:
-  Resume: /assets/resume.pdf
+  - title: About Me
+    url: /
+  - title: Resume
+    url: /file/CV-HanlinCAI.pdf
+  - title: Publications
+    url: /publications/
+  - title: Awards
+    url: /awards/
+  - title: Fundings
+    url: /fundings/
+  - title: Hobbies
+    url: /hobbies/
+  - title: Blogs
+    url: /blogs/
+
+
   
 
 # Add links for more focus here
