@@ -6,18 +6,14 @@ layout: page
 
 Here is **Jianwei Li (李健炜)**.
 
-I am a senior student majoring in **Automation** at Fuzhou University and **Robotics** at Maynooth University (Ireland, Combined Degrees). Currently, I work as a research assistant in the **IACTIP Lab** (Provincial Key Laboratory), advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu). Here is [[my CV](https://caihanlin.com/file/CV-HanlinCAI.pdf)].
+My academic journey has been driven by a profound passion for environmental science and ecology. I completed my undergraduate studies in Environmental Science, followed by my decision to pursue a Master's degree in Ecology. Subsequently, I embarked on a continuous academic journey, seamlessly transitioning into a Ph.D. program, all within the realm of environmental ecology. Throughout my doctoral studies, I have remained dedicated to exploring the intricate relationship between **soil organic matter** and **soil microbial communities**. Here is [[my CV](https://lijianweicode.github.io/file/CV_Jianwei Li.pdf)].
 
 <br>
 
 ## Academic Background
 
-**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!**
-
-- **Sep 2020 - June 2024:** Fuzhou University (BEng)
-- **Sep 2020 - May 2024:** Maynooth University (BSc)
-- **June 2022 - Nov 2022:** Cambridge University (Visiting)
-- Expect to apply for a one-year MSc in the UK and graduate in 2025. Looking for PhD position after MSc!
+- **Sep 2019 - to data:** Northeast Normal University (MSC)
+- **Sep 2015 - June 2019:** Jilin Institute of Chemical Technology (BSC)
 
 <br>
 
@@ -25,22 +21,15 @@ I am a senior student majoring in **Automation** at Fuzhou University and **Robo
 
 ## Research Interests
 
-- Industrial IoT System
-- Bluetooth Low Energy
+- Soil organic matter
+- Soil microbial communities
 - Applied Machine Learning
 
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+During my pursuit of a Ph.D. degree, I employed high-throughput sequencing technology, fluorescence spectroscopy, and infrared spectroscopy to investigate the impact of varying qualities of organic matter on soil microbial diversity and the influence of soil microbial survival strategies on organic matter decomposition under wetland ecosystem succession conditions. Furthermore, I have had the privilege of disseminating my findings through several scholarly publications. Most recently, my research interests have revolved around the complexities and diversities of soil organic matter in forested wetlands and their role in driving the community structure of soil microorganisms under the influence of climate change. I am also conducting a global-scale meta-analysis to examine how anthropogenic disturbances impact soil microbial diversity in wetland ecosystems.
 
 <br>
 
 ---
 
-## News and Updates
 
-- **Sep 2023：**[DefenderIoT](https://fzuiot.site/) has been reported by [Youth of FZU](https://mp.weixin.qq.com/s/MF2NJQtEHsVwsm8Ym-l7Gg).
-- **Aug 2023：**Happy to be awarded the FEPG Scholarship.
-- **May 2023：**Happy to be awarded the XiamenAir Scholarship.
-- **May 2023：**Collected the Finalist Award in MCM 2023.
-- **Jan 2023：**One paper accepted to ICAROB 2023, see you in Japan!
-- **Jun 2022：**Visiting Research Intern at Cambridge University, advised by [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/ ).
-- If you are interested in my works, please feel free to book an [[online talk with me](https://calendly.com/lancecai/meet-with-lance)].
+- If you are interested in my works, please contact me [[mail](lijw092@nenu.edu.cn)].
