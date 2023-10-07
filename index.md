@@ -2,10 +2,9 @@
 layout: page
 ---
 
-## About Me
+## Jianwei Li
 
-Here is **Jianwei Li (李健炜)**.
-
+His scientific activity concerns research topics in the field of soil ecology as well as biogeochemistry cycle, especially in the field of soil microbiology.
 My academic journey has been driven by a profound passion for environmental science and ecology. I completed my undergraduate studies in Environmental Science, followed by my decision to pursue a Master's degree in Ecology. Subsequently, I embarked on a continuous academic journey, seamlessly transitioning into a Ph.D. program, all within the realm of environmental ecology. Throughout my doctoral studies, I have remained dedicated to exploring the intricate relationship between **soil organic matter** and **soil microbial communities**. Here is [[my CV](https://lijianweicode.github.io/file/CV_Jianwei Li.pdf)].
 
 <br>

@@ -4,32 +4,24 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-Lastest Update: 2nd Oct 2023&nbsp;  [中文版本 (Chinese Version)](https://caihanlin.com/file/publications-zh/)
+Lastest Update: 2nd Oct 2023
 
-## Conference Paper
+## Publications
+For a full list of publications, click on my [Google Scholar](https://scholar.google.com/citations?user=VJYoEEgAAAAJ&hl), or [ResearchGate](https://www.researchgate.net/profile/Jianwei-Li-31).
 
-- [BLEGuard: Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks (Student Abstract)](https://www.researchgate.net/publication/373902807_BLEGuard_Hybrid_Detection_Mechanism_for_Spoofing_Attacks_in_Bluetooth_Low_Energy_Networks_Student_Abstract)<br>**Hanlin Cai**, Yuchen Fang, Meng Yuan, Zhezhuang Xu<br>AAAI Conference on Artificial Intelligence (AAAI 2024)<br>(Under Review) Vancouver, Canada. February, 2024.
+8) **Li, J.**, Zhao, L., Song, C., He, C., Bian, H., & Sheng, L. (2023). Forest swamp succession alters organic carbon composition and survival strategies of soil microbial communities. Science of The Total Environment, 166742.[link](https://doi.org/10.1016/j.scitotenv.2023.166742)
 
-- [Deep Residual Neural Network for Efficient Traffic Sign Detection](https://www.researchgate.net/publication/369505759)<br>**Hanlin Cai**, Zheng Li, Jiaqi Hu, Wei Hong Lim, Sew Sun Tiang, Mastaneh Mokayef, Chin Hong Wong<br>The 28th International Conference on Artificial Life and Robotics (ICAROB 2023)<br>Beppu, Japan. February, 2023. [Slides](https://caihanlin.com/mypaper/slides/2023-ICAROB-Pre.pdf).<br>
+7) Xu, R., Zhang, J., **Li, J.**, Liu, R., Ni, M., & Zeng, G. (2023). Deciphering riverine dissolved organic matter biodegradation: Evidence from three-dimensional fluorescence. Journal of Environmental Chemical Engineering, 110296.[link](https://doi.org/10.1016/j.jece.2023.110296)
 
-- [An IoT Garbage Monitoring System for Effective Garbage Management](https://www.researchgate.net/publication/368410220_An_IoT_Garbage_Monitoring_System_for_Effective_Garbage_Management)<br>**Hanlin Cai**, Jiaqi Hu, Zheng Li, Wei Hong Lim, Mastaneh Mokayef, Chin Hong Wong<br>The 4th International Conference on Computer Engineering, Network and Intelligent Multimedia<br>Surabaya, Indonesia. November, 2022 (EI Compendex).<br>
+6) Li, M., **Li, J.**, Zhao, L., Liu, S., Wang, Y., & Bian, H. (2023). Effects of exogenous Fe addition on soil respiration rate and dissolved organic carbon structure in temperate forest swamps of northeastern China. Environmental Research, 216, 114800.[link](https://doi.org/10.1016/j.envres.2022.114800)
 
-  <br>
+5) **Li, J.**, Zhao, L., Li, M., Min, Y., Zhan, F., Wang, Y., & Bian, H. (2022). Changes in soil dissolved organic matter optical properties during peatland succession. Ecological Indicators, 143, 109386.[link](https://doi.org/10.1016/j.ecolind.2022.109386)
 
-## Working Manuscript
+4) **Li, J.**, Li, M., Zhao, L., Sun, X., Gao, M., Sheng, L., & Bian, H. (2022). Characteristics of soil carbon emissions and bacterial community composition in peatlands at different stages of vegetation succession. Science of the Total Environment, 839, 156242.[link](https://doi.org/10.1016/j.scitotenv.2022.156242)
 
-- Detecting Multiple-mix-attack in IoT Networks through Reconstruction and Classiﬁcation Machine Learning Techniques<br>MDPI Sensors Journal (IF: 3.847, JCR Q2). Under major modification.<br>
+3) Chen, J., **Li, J.**, Yang, Y., Wang, Y., Zhang, Y., & Wang, P. (2022). Effects of conventional and organic agriculture on soil arbuscular mycorrhizal fungal community in low-quality farmland. Frontiers in Microbiology, 13, 914627.[link](https://doi.org/10.3389/fmicb.2022.914627)
 
-- Multi-objective Optimization Model Based on Analysis of Human-Land Relationship Coupling: A Case Study of the Masai Mara National Reserve<br>The 5th International Conference on Modeling, Simulation, Optimization and Algorithm. Under working.
+2) **Li, J.**, Sun, X., Li, M., Zou, J., & Bian, H. (2022). Effects of stand age and soil organic matter quality on soil bacterial and fungal community composition in Larix gmelinii plantations, Northeast China. Land Degradation & Development, 33(8), 1249-1259.[link](https://doi.org/10.1002/ldr.4219)
 
-  <br>
 
----
-
-## Undergraduate Thesis
-
-- Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks<br>**Hanlin Cai** (Advisor: Zhezhuang Xu). Final Year Project. Under working<br>Expect to submit a research paper to IEEE Internet of Things Journal.
-
-- [Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot](https://caihanlin.com/mypaper/thesis/IP-report.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu). Intern Program for Junior Students.<br>Industrial Placement Report in [Huading Tech](http://www.hdim.com.cn/) and [IACTIP Lab](https://dqxy.fzu.edu.cn/info/1023/2571.htm)<br>
-
-  <br>
+1) Zhang, X., Shen, J., Huo, X., **Li, J.**, Zhou, Y., Kang, J., & Wang, B. (2021). Variations of disinfection byproduct precursors through conventional drinking water treatment processes and a real-time monitoring method. Chemosphere, 272, 129930.[link](https://doi.org/10.1016/j.chemosphere.2021.129930)
