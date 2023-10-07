@@ -1,57 +1,36 @@
-###########
-# site.title
+title: Hanlin Cai
+# tagline: Here is personal website of Hanlin Cai. Powered by Jekyll, based on the Minimal Mistakes theme.
+# description: Two roads diverged in woods, I took the one less traveled by.
+#Comment out url when working locally to resolve base urls correctly
+url: https://caihanlin.com
 
-title: Jianwei Li
-description: a minimal, text focused blog theme
-# baseurl: "/jekyllBear" # the subpath of your site, e.g. /blog/
-url: "lijianweicode.github.io" # the base hostname & protocol for your site
-# host: 0.0.0.0
+# Owner/author information
+owner:
+  name: Hanlin Cai
+  avatar: hanlin.jpg
+ # bio:
+  email: hanlin.cai@ieee.org
+  # Social networking links are used in author-bio sidebar. Update and remove as you like.
+  twitter: lancecai2002
+  # facebook: caihanlin2002
+  github: GuangLun2000
+  linkedin: hanlincai
+  scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
+  # instagram: lancecai2002
+  # lastfm:
+  # tumblr:
+  # For Google Authorship https://plus.google.com/authorship
+  # google_plus:
 
+# Analytics and webmaster tools stuff goes here
+# https://search.google.com/search-console/ownership
+google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 
-#########################
-# more settings
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+# bing_verify: ""
 
-plugins:
-  - jekyll-redirect-from
-
-whitelist:
-  - jekyll-redirect-from
-
-markdown: kramdown
-
-compress_html:
-  clippings: all
-  comments: [""]
-  endings: [html, head, body, li, dt, dd, rt, rp, optgroup, option, colgroup, caption, thead, tbody, tfoot, tr, td, th]
-  profile: false
-  blanklines: false
-  ignore:
-    envs: []
-
-# sass:
-#   sass_dir: css
-#   style:    compressed
-
-collections:
-  my_tags:
-    output: true
-    permalink: /tagged/:slug/
-defaults:
-  -
-    scope:
-      path: ""
-      type: my_tags
-    values:
-      layout: tagged
-
-# baseurl: ""
-# permalink: /blog/:slug
-timezone: China/Beijing
-future: true
-
-
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
-
+# Links to include in top navigation
+# For external links add external: true
 links:
   - title: About Me
     url: /
@@ -66,11 +45,41 @@ links:
   - title: Hobbies
     url: /hobbies/
   - title: Blogs
-    url: /blog/
+    url: /blogs/
+
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: China/Beijing
+future: true
+highlighter: rouge
+# markdown: kramdown
+# markdown: redcarpet
+# pygments: true
 
 
-  
+# https://github.com/mojombo/jekyll/wiki/Permalinks
+permalink:   /:categories/:title
 
-# Add links for more focus here
-# special_links:
-#   "Search": https://duckduckgo.com
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
+
+  # coderay:
+  #   coderay_line_numbers:
+  #   coderay_line_numbers_start: 1
+  #   coderay_tab_width: 4
+  #   coderay_bold_every: 10
+  #   coderay_css: class
+
+
+# disqus settings:
+disqus:
+  shortname: lancecai
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
+
+# Latest update in 2023/08/28 by Hanlin Cai.
