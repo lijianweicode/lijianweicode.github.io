@@ -4,7 +4,7 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-Lastest Update: 2nd Oct 2023
+Lastest Update: 7nd Oct 2023
 
 ## Publications
 <p>For a full list of publications, click on my <a href="(https://scholar.google.com/citations?user=VJYoEEgAAAAJ&hl">Google Scholar</a>, or <a href="(https://www.researchgate.net/profile/Jianwei-Li-31">ResearchGate</a>.
