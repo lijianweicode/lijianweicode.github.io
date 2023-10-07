@@ -2,7 +2,7 @@
 layout: page
 ---
 
-# About Me
+## About Me
 
 Here is **Jianwei Li (李健炜)**.
 
@@ -28,8 +28,3 @@ My academic journey has been driven by a profound passion for environmental scie
 During my pursuit of a Ph.D. degree, I employed high-throughput sequencing technology, fluorescence spectroscopy, and infrared spectroscopy to investigate the impact of varying qualities of organic matter on soil microbial diversity and the influence of soil microbial survival strategies on organic matter decomposition under wetland ecosystem succession conditions. Furthermore, I have had the privilege of disseminating my findings through several scholarly publications. Most recently, my research interests have revolved around the complexities and diversities of soil organic matter in forested wetlands and their role in driving the community structure of soil microorganisms under the influence of climate change. I am also conducting a global-scale meta-analysis to examine how anthropogenic disturbances impact soil microbial diversity in wetland ecosystems.
 
 <br>
-
----
-
-
-- If you are interested in my works, please contact me [[mail](lijw092@nenu.edu.cn)].

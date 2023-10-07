@@ -33,15 +33,15 @@ links:
   - title: About Me
     url: /
   - title: Resume
-    url: /file/CV-HanlinCAI.pdf
+    url: /file/CV_Jianwei.pdf
   - title: Publications
     url: /publications/
-  - title: Awards
-    url: /awards/
-  - title: Fundings
-    url: /fundings/
-  - title: Hobbies
-    url: /hobbies/
+  # - title: Awards
+  #   url: /awards/
+  # - title: Fundings
+  #   url: /fundings/
+  # - title: Hobbies
+  #   url: /hobbies/
   - title: Blogs
     url: /blogs/
 
