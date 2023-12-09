@@ -9,6 +9,8 @@ Lastest Update: 7nd Oct 2023
 ## Publications
 For a full list of publications, click on my <a href="(https://scholar.google.com/citations?user=VJYoEEgAAAAJ&hl">Google Scholar</a>, or <a href="(https://www.researchgate.net/profile/Jianwei-Li-31">ResearchGate</a>.
 
+9) Zhao, L., <b>Li, J.</b>, Nai, T., He, C., Bian, H., & Sheng, L. (2023). Effect of experimental warming on dissolved organic matter and bacterial diversity in a forest swamp soil. <i>Science of The Total Environment</i>, 166742.
+
 8) <b>Li, J.</b>, Zhao, L., Song, C., He, C., Bian, H., & Sheng, L. (2023). Forest swamp succession alters organic carbon composition and survival strategies of soil microbial communities. <i>Science of The Total Environment</i>, 166742.
 
 7) Xu, R., Zhang, J., <b>Li, J.</b>, Liu, R., Ni, M., & Zeng, G. (2023). Deciphering riverine dissolved organic matter biodegradation: Evidence from three-dimensional fluorescence. <i>Journal of Environmental Chemical Engineering</i>, 110296.
